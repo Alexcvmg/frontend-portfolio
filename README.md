@@ -1,4 +1,4 @@
-# 🚀 Frontend Portfolio
+# 🚀 Front End Portfolio
 
 Coleção dos meus principais projetos Front End, desenvolvidos para transformar ideias em interfaces funcionais, responsivas e intuitivas.
 
