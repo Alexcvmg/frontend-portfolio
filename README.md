@@ -1,82 +1,130 @@
-# Frontend Portfolio
+# 🚀 Frontend Portfolio
 
-Coleção dos meus principais projetos Front End, desenvolvidos para transformar ideias em interfaces funcionais, responsivas e intuitivas. Os projetos exploram diferentes abordagens de desenvolvimento, desde aplicações com React até páginas construídas com HTML, CSS e JavaScript puro.
+Coleção dos meus principais projetos Front End, desenvolvidos para transformar ideias em interfaces funcionais, responsivas e intuitivas.
 
-## 🚀 Projetos
+Os projetos exploram diferentes abordagens de desenvolvimento, desde aplicações com **React** até páginas construídas com **HTML, CSS e JavaScript puro**.
 
-### 💬 Plataforma de Fórum — Interação e publicação de conteúdo
+---
 
-Aplicação para criação e gerenciamento de publicações em um ambiente de fórum, com foco em interação entre usuários, organização de conteúdo e experiência de navegação.
+## 💻 Projetos
+
+### 💬 [Plataforma de Fórum](https://github.com/Alexcvmg/plataforma-forum)
+
+**Uma aplicação completa para interação, publicação e gerenciamento de conteúdo.**
+
+Plataforma desenvolvida com React para criação e gerenciamento de tópicos, comentários e interações entre usuários. O projeto também explora autenticação, busca, ordenação, paginação, integração com Firebase e testes automatizados.
 
 **Tecnologias:**
+`ReactJS` · `JavaScript` · `Axios` · `Formik` · `Yup` · `React Router` · `Firebase` · `Cypress`
 
-* ReactJS
+➡️ **[Ver projeto no GitHub](https://github.com/Alexcvmg/plataforma-forum)**
+
+---
+
+### 🐶 [Landing Page Pet — Mobile First](https://github.com/Alexcvmg/Mobile-First-Project-React)
+
+**Uma interface responsiva construída com React e pensada primeiro para o mobile.**
+
+Landing page desenvolvida utilizando React, estruturada em componentes e construída seguindo a abordagem Mobile First. O projeto explora responsividade, organização de componentes, seções de conteúdo, cards e formulário.
+
+**Tecnologias:**
+`React` · `JavaScript` · `JSX` · `Tailwind CSS` · `CSS`
+
+➡️ **[Ver projeto no GitHub](https://github.com/Alexcvmg/Mobile-First-Project-React)**
+
+---
+
+### 👤 [Página Pessoal](https://github.com/Alexcvmg/Pagina-Pessoal-Alex)
+
+**Transformando identidade profissional em uma experiência digital.**
+
+Página pessoal desenvolvida com HTML, CSS e JavaScript puro para apresentar informações e projetos de forma organizada. O projeto também possui validação de formulário e diferentes interações utilizando JavaScript.
+
+**Tecnologias:**
+`HTML5` · `CSS3` · `JavaScript`
+
+➡️ **[Ver projeto no GitHub](https://github.com/Alexcvmg/Pagina-Pessoal-Alex)**
+
+---
+
+### 🥩 [Site de Açougue](https://github.com/Alexcvmg/Site-de-Acougue)
+
+**Transformando um negócio local em uma experiência digital.**
+
+Site comercial desenvolvido para apresentar produtos, categorias e informações de um açougue. O projeto conta com múltiplas páginas, menu responsivo e interações desenvolvidas com JavaScript puro  e usando a paleta de cores designada anteriormente.
+
+**Tecnologias:**
+`HTML5` · `CSS3` · `JavaScript`
+
+➡️ **[Ver projeto no GitHub](https://github.com/Alexcvmg/Site-de-Acougue)**
+
+---
+
+### ⚡ [Single Page](https://github.com/Alexcvmg/SinglePage)
+
+**Uma experiência web completa concentrada em uma única página.**
+
+Projeto desenvolvido com HTML, CSS e JavaScript puro para explorar o conceito de Single Page, combinando navegação entre seções, elementos visuais e recursos multimídia.
+
+**Tecnologias:**
+`HTML5` · `CSS3` · `JavaScript`
+
+➡️ **[Ver projeto no GitHub](https://github.com/Alexcvmg/SinglePage)**
+
+---
+
+## 🛠️ Tecnologias e conhecimentos
+
+### Front End
+
+* HTML5
+* CSS3
 * JavaScript
-* CSS
+* ReactJS
+* JSX
+* React Router
+* Tailwind CSS
+
+### Bibliotecas e ferramentas
+
 * Axios
 * Formik
 * Yup
-* React Router
 * Cypress
-
-🔗 [Ver repositório](https://github.com/Alexcvmg/plataforma-forum)
-
----
-
-### 📱 Mobile First — Interface responsiva e adaptável
-
-Projeto desenvolvido utilizando a abordagem **Mobile First**, priorizando uma boa experiência em dispositivos móveis e adaptando a interface para diferentes tamanhos de tela.
-
-**Tecnologias:**
-
-* React
-* JavaScript
-* CSS
-* React Router
-
-🔗 [Ver repositório](https://github.com/Alexcvmg/Mobile-First-Project-React)
+* Firebase
+* Vite
+* Git
+* GitHub
 
 ---
 
-### 👤 Página Pessoal — Apresentação e identidade profissional
+## 🎯 Sobre os projetos
 
-Página pessoal desenvolvida para apresentar informações, projetos e perfil profissional de forma simples, organizada com Html, CSS e JavaScript Puro.
+Os projetos deste portfólio representam diferentes etapas e abordagens do meu desenvolvimento em Front End, desde a construção de páginas utilizando os fundamentos da web até aplicações mais completas utilizando React e integração com serviços externos.
 
-**Tecnologias:**
-
-* HTML
-* CSS
-* JavaScript
-
-🔗 [Ver repositório](https://github.com/Alexcvmg/Pagina-Pessoal-Alex)
+O objetivo é transformar ideias e necessidades em **interfaces funcionais, responsivas e acessíveis**, aplicando boas práticas e evoluindo continuamente minhas habilidades de desenvolvimento.
 
 ---
 
-### 🥩 Site de Açougue — Presença digital para um negócio
+## 📂 Organização
 
-Site comercial desenvolvido para apresentar um açougue, seus produtos e informações de contato, com foco em uma navegação simples e uma interface adequada para um negócio local, usando uma paleta de cores designada anteriormente. 
+Cada projeto possui seu próprio repositório, contendo documentação específica, tecnologias utilizadas, estrutura do projeto e instruções para execução.
 
-**Tecnologias:**
-
-* HTML
-* CSS
-* JavaScript
-
-🔗 [Ver repositório](https://github.com/Alexcvmg/Site-de-Acougue)
+```text
+frontend-portfolio/
+│
+├── 💬 plataforma-forum
+├── 🐶 Mobile-First-Project-React
+├── 👤 Pagina-Pessoal-Alex
+├── 🥩 Site-de-Acougue
+└── ⚡ SinglePage
+```
 
 ---
 
-### ⚡ Single Page — Experiência em página única
+## 📫 Contato
 
-Projeto desenvolvido como uma **Single Page**, explorando navegação fluida, organização de conteúdo e interação com o usuário em uma única página.
+Caso queira conhecer mais sobre meus projetos ou entrar em contato:
 
-**Tecnologias:**
-
-* HTML
-* CSS
-* JavaScript
-
-🔗 [Ver repositório](https://github.com/Alexcvmg/SinglePage)
-
-
-
+💻 **Linkedin:** (https://www.linkedin.com/in/alexcvmg/)
+---
