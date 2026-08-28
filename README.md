@@ -70,6 +70,7 @@ Projeto desenvolvido com HTML, CSS e JavaScript puro para explorar o conceito de
 `HTML5` · `CSS3` · `JavaScript`
 
 ➡️ **[Ver projeto no GitHub](https://github.com/Alexcvmg/SinglePage)**
+🌐 Projeto online: https://alexcvmg.github.io/SinglePage/
 
 ---
 
